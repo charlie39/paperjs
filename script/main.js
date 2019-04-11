@@ -6,10 +6,10 @@ $(document).ready(function () {
 	paper.setup(document.getElementById("mainCanvas"));
 
 
-//-------printing a simple cirle -------------
+//-------printing a simple circle -------------
 var c= Shape.Circle(200,200,300);
 	c.fillColor='green';
-//-------printing multiple cirles via nested for loops----
+//-------printing multiple nested cirles with different colors via nested for loops----
 	let d;
 	for(let x=25;x<400;x+=50) {
 		for(let y=25;y<400;y+=50) {

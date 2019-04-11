@@ -4,3 +4,5 @@
 *.swp
 #ignoring user created back up files
 *.bak
+#ignoring the themes config
+_config.yml

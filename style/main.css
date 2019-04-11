@@ -1,9 +1,10 @@
-/* style goes here */
+/* style for the main canvas*/
 #mainCanvas {
 	height:400px;
 	width:400px;
 	border:1px solid orange;
 }
+/* style for the heading */
 h1 {
 	border:1px solid black;
 	width:400px;
