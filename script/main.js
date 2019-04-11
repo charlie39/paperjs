@@ -43,11 +43,4 @@ var c= Shape.Circle(200,200,300);
 	}
 
          paper.view.draw();
-/*  $("#btn").addEventListener('click', function () {
-	$("#mainCanvas").toggle();
-}
-	*/
-	$("#btn").onclick=function() {
-		$("#mainCanvas").toggle();
-	};
 });
