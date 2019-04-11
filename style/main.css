@@ -3,6 +3,11 @@ body {
 	display:block;
 	background:grey;
 }
+#container {
+
+	width:410px;
+}
+
 #mainCanvas {
 	float:center;
 	position:center;
@@ -17,7 +22,7 @@ h2 {
 	text-align:center;
 	float:center;
 	width:400px;
-	font-style:comic;
+	font-style:tahoma;
 	color:blue;
 	background:#ffd33d;
 }
@@ -25,14 +30,13 @@ h2 {
 p {
 	text-align:center;
 	font-style:italic;
-	color:green;
+	color:black;
 	width:400px;
 
 }
-.des {
-	display:inline-flex;
-	flex-direction:horizontal;
+#des {
 	border:1px solid black;
-	position:50%;
+	top:200px;
+	left:450px;
 
 }
