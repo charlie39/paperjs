@@ -1,0 +1,6 @@
+#ignoring log files
+*.log
+#ignoring backup files created by vim
+*.swp
+#ignoring user created back up files
+*.bak

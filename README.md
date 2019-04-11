@@ -1,2 +1,3 @@
 # paperjs
-a beginner project for testing paperjs and javascript 
+Noob's project for testing javascript and the paperjs library besides HTML and CSS
+
