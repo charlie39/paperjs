@@ -1,15 +1,38 @@
 /* style for the main canvas*/
+body {
+	display:block;
+	background:grey;
+}
 #mainCanvas {
+	float:center;
+	position:center;
 	height:400px;
 	width:400px;
-	border:1px solid orange;
+ 	border:1px solid pink;
 }
 /* style for the heading */
-h1 {
-	border:1px solid black;
+h2 {
+	border:2px solid pink;
+	border-radius:90%;
+	text-align:center;
+	float:center;
 	width:400px;
 	font-style:comic;
 	color:blue;
-	background:pink;
+	background:#ffd33d;
 }
+/* style for sub heading */
+p {
+	text-align:center;
+	font-style:italic;
+	color:green;
+	width:400px;
 
+}
+.des {
+	display:inline-flex;
+	flex-direction:horizontal;
+	border:1px solid black;
+	position:50%;
+
+}
